@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+author: "Gordon"
+date: "April 12, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(reticulate)
+
+mdl <- lm("Petal.Width ~ . - Species", iris)
+```
+
+```{python}
+import numpy as np
+import pandas as pd
+
+df = pd.read_csv("https://bit.ly/2ow0oJO")
+X = df.drop(["petal_width", "species"], axis = 1)
+y = df.petal_width
+
+print(r.iris)
+```
+
