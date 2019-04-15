@@ -1,0 +1,6 @@
+---
+title: "Index"
+output: html_document
+---
+
+Initial site.

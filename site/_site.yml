@@ -1,0 +1,7 @@
+name: "tidy-shell"
+output_dir: "."
+navbar:
+  title: "Tidy Shell"
+  left:
+    - text: "Home"
+      href: index.html
