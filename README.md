@@ -17,6 +17,8 @@ Collaborative project to help teams use Python and R
 
 ## Roadmap Ideas 
 
+* document requirements and dependencies in anticipation of creating a R/python virtual environment and/or docker (less priority)?? 
+
 * publish pre-print on arxiv
 
 * Utilize apache arrow and parquet to serialize objects for in-memory and on-disk. This would help provide a way to bridge pandas and tidy dataframes. 
