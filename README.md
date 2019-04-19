@@ -23,7 +23,7 @@ Collaborative project to help teams use Python and R
 
 * Utilize apache arrow and parquet to serialize objects for in-memory and on-disk. This would help provide a way to bridge pandas and tidy dataframes. 
 
-
+* allow easier cloud connections (auth_file locations as environment variables that you have to log into) (single sign on ide) 
 
 
 
