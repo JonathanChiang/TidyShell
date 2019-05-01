@@ -1,6 +1,6 @@
 ## Overview
 
-Collaborative project to help teams use Python and R 
+Collaborative project to Create Bash Command Utilities for Federated Model Training and Model Serialization
 
 ## Initial Goals 
 
