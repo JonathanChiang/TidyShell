@@ -12,7 +12,7 @@ Collaborative project to help teams use Python and R
 
 - working proof of concept of rpy2 *[Gordon Finished]*
 
-- document work being done in blog post and R/Python community feedback *[Assigned to Jonathan]*
+- document work being done in blog post and R/Python community feedback *[Finished (recieved top post on Rstats)]*
 
 
 ## Roadmap Ideas 
@@ -25,5 +25,5 @@ Collaborative project to help teams use Python and R
 
 * allow easier cloud connections (auth_file locations as environment variables that you have to log into) (single sign on ide) 
 
-
+* Create a dedicated IDE for Federated Learning and Secure Model Communication In Healthcare setting? 
 
