@@ -14,6 +14,7 @@ Collaborative project to Create Bash Command Utilities for Federated Model Train
 
 - document work being done in blog post and R/Python community feedback *[Finished (recieved top post on Rstats)]*
 
+- Try out pysyft and pytorch
 
 ## Roadmap Ideas 
 
