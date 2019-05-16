@@ -10,17 +10,15 @@ Project to Create bash utilities for federated model training and serialization.
 
 - [x] Document work being done in blog post and R/Python community feedback *[(recieved top post on Rstats)]*
 
-- [ ] Share a basic pytorch mnist model built in python and serialized to R
-
 - [ ] Try out pysyft and pytorch
 
 - [ ] Build Atom-based IDE on top of radian
 
-- [ ] Objects with metadata: Attach an object's history so it can be accessed when transferred
+## Road Map
 
-## Roadmap
+*  Objects with metadata: Attach an object's history so it can be accessed when transferred
 
-* Document requirements and dependencies in anticipation of creating a R/python virtual environment and/or docker (less priority)?? 
+* Document requirements and dependencies in anticipation of creating a R/python virtual environment and/or docker (less priority)??
 
 * Publish pre-print on arxiv
 
