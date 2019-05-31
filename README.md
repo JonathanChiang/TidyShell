@@ -10,9 +10,9 @@ Project to Create bash utilities for federated model training and serialization.
 
 - [x] Document work being done in blog post and R/Python community feedback *[(recieved top post on Rstats)]*
 
-- [ ] Try out pysyft and pytorch
+- [x] Try out pysyft and pytorch
 
-- [ ] Build Atom-based IDE on top of radian
+- [x] Build Atom-based IDE on top of radian (installed terminal and radian) 
 
 ## Road Map
 
