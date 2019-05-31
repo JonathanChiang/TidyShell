@@ -14,6 +14,8 @@ Project to Create bash utilities for federated model training and serialization.
 
 - [x] Build Atom-based IDE on top of radian (installed terminal and radian) 
 
+- [ ] TidyTensors: Allow R users to be first class citizens to pytorch infrastracture 
+
 ## Road Map
 
 *  Objects with metadata: Attach an object's history so it can be accessed when transferred
@@ -29,4 +31,5 @@ Project to Create bash utilities for federated model training and serialization.
 * Create a dedicated IDE for Federated Learning and Secure Model Communication In Healthcare setting?
 
 * Access objects from either an R or Python process when both are running. 
+
 
