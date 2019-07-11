@@ -14,7 +14,9 @@ Project to Create bash utilities for federated model training and serialization.
 
 - [x] Build Atom-based IDE on top of radian (installed terminal and radian) 
 
-- [ ] TidyTensors: Allow R users to be first class citizens to pytorch infrastracture 
+## High Ticket Items: 
+
+- [] Make downloading and setup 1 click 
 
 ## Road Map
 
