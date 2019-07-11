@@ -1,6 +1,7 @@
 ## Overview
 
-Project to Create bash utilities for federated model training and serialization.
+Interoperable Coding Practices and Design for Data Science Teams: With Differential Privacy as a first-class object 
+
 
 ## Initial Goals 
 
