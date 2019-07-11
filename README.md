@@ -16,7 +16,7 @@ Project to Create bash utilities for federated model training and serialization.
 
 ## High Ticket Items: 
 
-- [] Make downloading and setup 1 click 
+- [ ] Make downloading and setup 1 click 
 
 ## Road Map
 
